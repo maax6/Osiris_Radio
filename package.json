@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "sass": "^1.49.0"
+  },
+  "name": "osirisradio",
+  "description": "Projet de web radio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/styles.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maax6/Osiris_Radio.git"
+  },
+  "author": "MaximeS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maax6/Osiris_Radio/issues"
+  },
+  "homepage": "https://github.com/maax6/Osiris_Radio#readme"
+}
